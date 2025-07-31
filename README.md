@@ -3,6 +3,7 @@ MY-DATA-ANALYSIS-PORTFOLIO
 A collection of my data analysis projects, demonstrating my skills in Python,MySQL, R, Excel, Power BI and Tableau.
 
 ABOUT ME
+
 I am a data enthusiast with a strong passion for using data to uncover insights and solve problems. I am proficient in various tools and techniques for data manipulation, analysis, and visualization. I am actively seeking opportunities to apply my skills in a professional environment.
 
 SKILLS
