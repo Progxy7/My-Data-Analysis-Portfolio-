@@ -9,7 +9,9 @@ I am a data enthusiast with a strong passion for using data to uncover insights 
 SKILLS
 
 Programming: Python, R
+
 Databases: MySQL
+
 Visualization: Tableau, Power BI.
 Tools: Excel.
 
