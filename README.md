@@ -13,6 +13,7 @@ Programming: Python, R
 Databases: MySQL
 
 Visualization: Tableau, Power BI.
+
 Tools: Excel.
 
 PROJECTS
